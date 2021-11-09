@@ -1,0 +1,47 @@
+Name: Jifan Chen
+USC ID: 9419419710
+News site crawled: nytimes.com
+Number of threads: 7
+
+Fetch Statistics:
+=================
+# fetches attempted: 19850
+# fetches succeeded: 13994
+# fetches failed or aborted: 5856
+
+Outgoing URLs:
+==============
+Total URLs extracted: 706000
+# unique URLs extracted: 305209
+# unique URLs within News Site: 169387
+# unique URLs outside News Site: 135822
+
+Status Codes:
+=============
+200 OK: 13994
+301 Moved Permanently: 1694
+302 Found: 4125
+400 Bad Request: 24
+401 Unauthorized: 1
+403 Forbidden: 2
+404 Not Found: 5
+410 Gone: 3
+502 Bad Gateway: 1
+503 Service Unavailable: 1
+
+File Sizes:
+===========
+< 1KB: 0
+1KB ~ <10KB: 25
+10KB ~ <100KB: 2344
+100KB ~ <1MB: 9883
+>= 1MB: 1548
+
+Content Types:
+==============
+text/html: 13776
+image/png: 14
+image/svg+xml: 6
+image/jpeg: 2
+image/vnd.microsoft.icon: 1
+image/gif: 1
